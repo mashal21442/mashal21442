@@ -35,7 +35,11 @@ Hi, I'm **Mashal Khan**. Welcome to my GitHub.
 <!--LATEST-START-->
 | Project | Language | Latest change | Date |
 |---|---|---|---|
-| _Filled automatically after the first workflow run_ | | | |
+| 📁 **[mashal21442](https://github.com/mashal21442/mashal21442)** | Python | [Resolve profile README conflict](https://github.com/mashal21442/mashal21442/commit/4b98aa7a293fcc0d6658c4a9e26ddfd2f3962d9f) | 02 Oct 2026 |
+| 📁 **[entl-software-defect-analyzer](https://github.com/mashal21442/entl-software-defect-analyzer)** | Python | [Update project title in README.md](https://github.com/mashal21442/entl-software-defect-analyzer/commit/0fab484c1ce7e956134966cad2585affa76c9d8d) | 23 Sep 2026 |
+| 📁 **[multimodal-misinformation-robustness](https://github.com/mashal21442/multimodal-misinformation-robustness)** | Jupyter Notebook | [Initial reproducibility release for multimodal misinformation robustne](https://github.com/mashal21442/multimodal-misinformation-robustness/commit/63b9f4ac6b50424578e245f673609d884786bc0d) | 11 Sep 2026 |
+| 📁 **[course-seat-alert](https://github.com/mashal21442/course-seat-alert)** | Python | [Configure Neon PostgreSQL database](https://github.com/mashal21442/course-seat-alert/commit/bb6504da4786c7d02953f88622500b4db5bbb621) | 26 Aug 2026 |
+| 📁 **[Ai](https://github.com/mashal21442/Ai)** | Jupyter Notebook | [Created using Colab](https://github.com/mashal21442/Ai/commit/10ce81fdb5003cf910bc96dfec70b6138262a267) | 23 Jun 2026 |
 <!--LATEST-END-->
 
 <sub>Refreshes every 6 hours.</sub>
